@@ -50,7 +50,8 @@ Ok, so you have read the brief and checked out the designs. Ready to contribute,
 4. Find a task [here](https://github.com/ChristinaJackson/mythical-creatures/projects/1) or [create a task](https://github.com/ChristinaJackson/mythical-creatures/issues)
 5. Create a branch for your task and complete the task
 6. Commit and push the code to your fork
-7. Create a pull request to have the changes merged into the origin
+7. Create a pull request to have the changes merged into the origin. Please follow these guidelines when creating a pull request--> [How make a quality pull request](https://engineering.gusto.com/how-to-create-a-great-pull-request/)
+  
 
 **All discussions around this can be handled in Slack**
 
