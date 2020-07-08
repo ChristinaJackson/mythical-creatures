@@ -55,7 +55,7 @@ Ok, so you have read the brief and checked out the designs. Ready to contribute,
 
 **All discussions around this can be handled in Slack**
 
-Congratulations! You are now one pull request closer to being an pro!
+Congratulations! You are now one pull request closer to being a pro!
 
 ## To ensure everyone has the best chance at participating in this project. Please follow these simple guidelines where possible:
 
