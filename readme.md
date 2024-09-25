@@ -1,6 +1,6 @@
 # Mythical Creatures
 
-![Mythical Creatures](https://www.needpix.com/photo/1501407/)
+<img src="https://github.com/ChristinaJackson/mythical-creatures/blob/master/dragon-face-1506961042BLW%20(1).jpg" alt="Dragon Face" width="100" height="100">
 
 Welcome Adventurer. This project is modeled after a project done by Zero-to-Mastery during the 2019 Hacktoberfest. I learned a lot during the process and I wanted to pass the experience on to my fellow codecademy and Webflow learners. It is is designed to utilize HTML, CSS & vanilla JavaScript to achieve a simplistic yet fantastic guide to mythical creatures and beasts.
 
